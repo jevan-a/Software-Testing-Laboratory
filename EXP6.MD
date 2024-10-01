@@ -1,7 +1,7 @@
 # Ex.No: 6 To check whether the string is Palindrome and generate test cases.
 
-### DATE:  27.09.2024                                                                          
-### REGISTER NUMBER : 212222040120
+### DATE:  01.10.2024                                                                          
+### REGISTER NUMBER : 212222040023
 ### AIM: 
 Write a Python program to check whether the string is Palindrome and generate test cases. 
 ### Algorithm:
