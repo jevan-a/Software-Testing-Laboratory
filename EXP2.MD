@@ -1,6 +1,7 @@
+
 # Ex.No: 2   Matrix Multiplication 
 
-### DATE: 24.9.2024                                                                     
+### DATE:  24.09.2024                                                         
 ### REGISTER NUMBER : 212222040023
 
 
@@ -81,48 +82,8 @@ else:
 
 ### Output:
 
-```
-Enter the size of a: 2 3
-Enter the size of b: 2 3
-Matrix multiplication is not possible.
-Reason to fail: to do multiplication of matrices the number of columns in matrix ―a[] should be
-equal to the number of rows in matrix in b[] 
+![Screenshot (83)](https://github.com/user-attachments/assets/07cd27e1-875e-4aac-b937-7a0493a4a665)
 
-
-Enter the size of a: p q
-Enter the size of b: q s
-Matrix multiplication is not possible.
-Reason to fail: to do multiplication of matrices the number of columns in matrix ―a[]
-should be equal to number of rows in matrix ―bl, and rows & columns should be integer
-values. 
-
-
-
-Enter the size of a: 1.5 2
-Enter the size of b: 2 3
-Matrix multiplication is not possible.
-Reason to fail: to do multiplication of matrices the number of columns in matrix ―al should be
-equal to number of rows in matrix ―bl, and rows & columns should be integer values. 
-
-
-Enter the size of a: 350
-480 Enter the size of b:
-480 620
-Matrix multiplication is not possible.
-Reason to fail: size of buffer will be not be sufficient to handle this multiplication. 
-
-
-
-Enter the size of a: -
-1 -2 Enter the size of
-b: -2 3
-Matrix multiplication is not possible.
-Reason to fail: to do multiplication of matrices the number of columns in matrix ―al should
-be equal to number of rows in matrix ―bl, and rows & columns should be positive integer values. 
-
-
-
-```
 
 
 
